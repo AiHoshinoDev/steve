@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Ai_Hoshino_MC",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "BloodBoundSMP.play.hosting",
-    "port": 34758,
+    "ip": "62.141.62.22",
+    "port": 42451,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "hi",
+        "enjoy the game",
+        "if there is any bug or issue report to me"
       ]
     },
     "chat-log": true,
