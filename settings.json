@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Ai_Hoshino_MC",
-    "password": "",
+    "password": "sedia1019",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "sedia1019"
     },
     "anti-afk": {
       "enabled": true,
