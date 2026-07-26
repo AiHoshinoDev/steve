@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "hi",
-        "enjoy the game",
-        "if there is any bug or issue report to me"
+        "i am still here"
       ]
     },
     "chat-log": true,
