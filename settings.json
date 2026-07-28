@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "62.141.62.22",
-    "port": 42451,
+    "ip": "bloodboundsmp.mcsh.io",
+    "port": 12572,
     "version": "",
     "try-creative": false
   },
